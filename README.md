@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zhaleh Elmi
+# 👋 Hi, I'm Maryam Elmi
 
 Frontend Developer (Junior)
 
