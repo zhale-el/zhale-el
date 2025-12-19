@@ -4,9 +4,7 @@ Frontend Developer (Junior)
 
 ---
 
-
-
-## 🇬🇧 About Me
+## 🇬🇧 About Me 
 
 I am a **Junior Frontend Developer** passionate about building clean, modern, and user-friendly web interfaces.
 
@@ -18,12 +16,39 @@ I am a **Junior Frontend Developer** passionate about building clean, modern, an
 
 ## 🛠 Tech Stack
 
-* **Languages:** JavaScript, TypeScript
-* **Frontend:** React, Next.js
-* **State & Data:** React Query (TanStack Query)
-* **Styling:** Tailwind CSS, CSS
-* **Auth & APIs:** REST APIs, NextAuth (basic)
-* **Tools:** Git, GitHub, VS Code, Vercel
+### 💻 Frontend
+
+* React, Next.js (App Router)
+* HTML5, CSS3
+* Tailwind CSS, responsive design
+
+### 🔄 State & Data Management
+
+* React Query (TanStack Query)
+* Redux Toolkit (basic)
+* Zustand (basic state management)
+
+### 📝 Forms & Validation
+
+* React Hook Form
+
+### 🔐 Auth & Communication
+
+* NextAuth (GitHub authentication – basic)
+* REST APIs
+* Socket.IO (basic real-time concepts)
+
+### 🧰 Tools & Workflow
+
+* Git & GitHub
+* VS Code
+* Vercel (deployment)
+
+### 🧪 Familiar With
+
+* Server & Client Components in Next.js
+* Pagination & Infinite Scroll
+* Dark / Light Mode with Context
 
 ---
 
