@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maryam Elmi
 
-Frontend Developer (Junior)
+Frontend Developer 
 
 ---
 
@@ -56,18 +56,19 @@ I am a **Junior Frontend Developer** passionate about building clean, modern, an
 
 * **Portfolio Website**
   Built with Next.js & Tailwind CSS
-  🔗 [https://your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+  🔗https://zhale-el.github.io/
 
-* **CRUD Application**
-  React + API integration
-  🔗 [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+* **Jira Clone – Full-Stack Project:**
+Built with Next.js
+Live Demo: https://jira-clone-next-henna.vercel.app/ 
+GitHub: https://github.com/zhale-el/jira-clone-next 
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 💼 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* 📧 Email:zhalehelmi@gmail.com
+* 💼 LinkedIn:https://www.linkedin.com/in/maryam-elmi-a036912b4/    
 
 ---
 
