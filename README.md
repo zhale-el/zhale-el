@@ -60,8 +60,8 @@ I am a **Junior Frontend Developer** passionate about building clean, modern, an
 
 * **Jira Clone – Full-Stack Project:**
 Built with Next.js
-Live Demo: https://jira-clone-next-henna.vercel.app/ 
-GitHub: https://github.com/zhale-el/jira-clone-next 
+🔗Live Demo: https://jira-clone-next-henna.vercel.app/
+
 
 ---
 
